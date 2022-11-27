@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  margin-top: 0%;
 }
 
 .App-logo {
@@ -35,4 +36,11 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.error-box{
+  border: 1px solid red !important;
+}
+.success-box{
+  border: 2px solid greenyellow !important;
 }
